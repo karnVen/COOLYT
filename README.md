@@ -34,9 +34,17 @@
 COOLYT (08-Cool-YT)/
 ├── README.md                                  # Master Hub & Creator Index
 │
-└── Arjay-McCandless/                          # 👤 Creator: Arjay McCandless
+├── Arjay-McCandless/                          # 👤 Creator: Arjay McCandless
+│   ├── README.md                              # Creator Video Catalog & Specialization
+│   └── 01-how-many-users-can-a-12-dollar-server-handle.md # Deep Benchmark & Scalability Guide
+│
+├── Some-Guy-Who-Knows-Stuff/                  # 👤 Creator: Some Guy Who Knows Stuff
+│   ├── README.md                              # Creator Video Catalog & Specialization
+│   └── 01-the-most-important-books-ever-written.md # 11 Civilization-Altering Books & Buying Guide
+│
+└── Spencer/                                   # 👤 Creator: Spencer
     ├── README.md                              # Creator Video Catalog & Specialization
-    └── 01-how-many-users-can-a-12-dollar-server-handle.md # Deep Benchmark & Scalability Guide
+    └── 01-the-greatest-books-ive-ever-read.md # Top 10 World Literature Masterpieces & Translations
 ```
 
 ---
@@ -46,6 +54,8 @@ COOLYT (08-Cool-YT)/
 | Creator / Channel | Focus Area | Videos Covered | Latest Insight |
 | :--- | :--- | :---: | :--- |
 | **[Arjay McCandless](Arjay-McCandless/README.md)** | Backend Systems, Benchmarking, Performance | `1` | Single $12 VPS handles **2,500 concurrent users** raw, **>10,000 RPS** with 1s Nginx microcache |
+| **[Some Guy Who Knows Stuff](Some-Guy-Who-Knows-Stuff/README.md)** | History, Science, Foundational Books | `1` | Complete buying & edition breakdown of the 11 books that shaped civilization |
+| **[Spencer](Spencer/README.md)** | Classic Literature, World Fiction, Philosophy | `1` | Curated guide to the 10 greatest literary masterworks with verified translation editions |
 
 ---
 
